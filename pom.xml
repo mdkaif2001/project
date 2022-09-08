@@ -8,8 +8,11 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 		
-		<!--demo on github webhooks-->
-		<!--demo on github webhooks-->
+		<!--demo1 on github webhooks-->
+		<!--demo2 on github webhooks-->
+		<!--demo3 on github webhooks-->
+		<!--demo4 on github webhooks-->
+		
 	</parent>
 	<groupId>com.project</groupId>
 	<artifactId>project</artifactId>
